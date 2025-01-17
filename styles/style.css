@@ -1,0 +1,315 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* -----start navber----- */
+body{
+    background-color: F5F5F5;
+    width: 1280px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading{
+    width: 1280px;
+    margin: 0 auto;
+    
+}
+nav{
+   
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.Bangladesh{
+    color: #0E0E0E;
+    font-size: 32px;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.sign-btn{
+    font-size: 18px;
+    border-radius: 8px;
+    background-color: F5F5F5;
+    color: #006A50;
+    padding: 15px 30px;
+    border: 1px solid #006A50;
+    margin-bottom: 44px;
+}
+.hero-img{
+    width:474.03px ;
+    height: 400px;
+    
+}
+.banner{
+    display: flex;
+    background-color: #C6E4D6;
+    padding: 80px;
+    border-radius: 24px;
+    justify-content: space-between;
+    margin-bottom: 80px;
+
+}
+.sub-title{
+    font-weight: 400;
+    color: rgba(124, 112, 112, 0.945);
+    font-size: 24px;
+    margin-top: 117px;
+}
+.main-title{
+    font-size: 56px;
+    line-height: 60px;
+}
+.primary-btn{
+    padding: 17px 34px;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #006A50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    margin-top: 24px;
+}
+.card-box{
+    width: 1280px;
+    margin: 0 auto;
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+.box{
+    padding: 24px;
+    background-color: white;
+    border: 1px solid #0e0e0e44;
+    margin-bottom: 80px;
+    border-radius: 16px;
+}
+
+h2{
+    margin-top: 24px;
+}
+.box-sub-title{
+    margin-top: 12px;
+    font-size: 16px;
+}
+.section-title{
+    font-size: 40px;
+}
+.section-sub-title{
+    margin-top: 24px;
+    color: #0e0e0e7a;
+}
+/* ------second section---------- */
+.card-box2{
+    width: 1280px;
+    margin: 0 auto;
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;}
+.box2{
+    width: 410.67px;
+    padding: 32px;
+    background-color: #548ff52f;
+    border: 1px solid #0e0e0e44;
+    margin-bottom: 80px;
+    border-radius: 16px;
+}
+.box3{
+    width: 410.67px;
+    padding: 32px;
+    background-color:#C6E4D6;
+    border: 1px solid #0e0e0e44;
+    margin-bottom: 80px;
+    border-radius: 16px;
+}
+.box4{
+    width: 410.67px;
+    padding: 32px;
+    background-color:#F7EBCF;
+    border: 1px solid #0e0e0e44;
+    margin-bottom: 80px;
+    border-radius: 16px;
+}
+.box-btn1{
+    margin-top: 24px;
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #5490F5;
+}
+.box-btn2{
+    margin-top: 24px;
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #09A15C;
+}
+.box-btn3{
+    margin-top: 24px;
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #FFC239;
+}
+.box5{
+    max-width:1280px ;
+   padding: 24px 48px;
+   background-color:#ffffff;
+   border: 1px solid #0e0e0e44;
+   margin-bottom: 80px;
+   border-radius: 16px;
+}
+.dr{
+  margin-top: 12px;
+  margin-bottom: 4px;
+  font-size: 20px;
+  font-weight: 500px;
+}
+
+
+.satelite-section{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 48px;
+    border-radius: 24px;
+    gap: 32px;
+    margin-bottom: 32px;
+}
+.satelite-img{
+    border-radius: 24px;
+}
+.satelite-main-title{
+    font-size: 32px;
+    font-weight: bold;
+    
+
+}
+.date{
+    margin-top: 12px;
+}
+.satelite-sub-title{
+    margin-top: 12px;
+    line-height: 25px;
+    font-size: 16px;
+}
+.al-jazeera{
+     margin-top: 12px;
+}
+
+/* ------donate-section------- */
+ .takar-box{
+    display: flex;
+    justify-content: space-between;
+    margin: 52px 104px;
+    gap: 24px;
+ }
+ .taka{
+    border: 1px solid #0e0e0e44;
+    margin-top: 24px;
+    padding: 40px;
+    background-color: white;
+    width: 240px;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 16px;
+ }
+ .taka:hover{
+    background-color: #C6E4D6;
+    padding: 40px;
+    width: 240px;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 16px;
+ }
+.donat-title{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 80px;
+}
+.donat-sub-title{
+    text-align: center;
+    font-size: 16px;
+    margin-left: 124px;
+    margin-right: 124px;
+}
+.amount{
+    
+    background-color: white;
+    text-align: center;
+    padding: 20px 40px;
+    margin-left: 124px;
+    margin-right: 124px;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 32px;
+}
+.news{
+    background-color: #C6E4D6;
+    height: 395px;
+    margin-top: 80px;
+    border-radius: 24px;
+    text-align: center;
+   
+}
+.news-title{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 80px;
+}
+.news-sub-title{
+    margin-top: 12px;
+    font-size: 16px;
+    color:#0e0e0e8c ;
+}
+.email{
+    margin-top: 24px;
+    height: 55px;
+    font-size: 16px;
+    padding: 18px 40px;
+    width: 600px;
+    border: none;
+    border-radius:8px;
+    margin-left: 265px;
+}
+.email-section{
+    display: flex;
+    gap: 5px;
+}
+.end{
+    margin-top: 24px;
+    color:#0e0e0e8c ;
+}
+
+
+/* ---fotter-section---------- */
+.footer{
+   text-align: center;
+    margin-top: 80px;
+    max-width: 1600px;
+   
+    background-color: rgb(255, 255, 255);
+}
+.footer-title{ 
+    padding-top: 80px;
+}
+hr{
+    margin-top: 32px;
+    margin-left: 124px;
+    margin-right: 124px;
+    color: #3b3a3a71;
+}
+.icon{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
