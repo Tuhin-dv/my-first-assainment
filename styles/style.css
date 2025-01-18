@@ -281,16 +281,28 @@ h2{
     padding: 18px 40px;
     width: 600px;
     border: none;
-    border-radius:8px;
+    border-top-left-radius:8px;
+    border-bottom-left-radius:8px;
     margin-left: 265px;
 }
 .email-section{
     display: flex;
-    gap: 5px;
+    
 }
 .end{
     margin-top: 24px;
     color:#0e0e0e8c ;
+}
+.primary-btn2{
+    padding: 17px 34px;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #006A50;
+    color: white;
+    border: none;
+    border-top-right-radius:8px;
+    border-bottom-right-radius:8px;
+    margin-top: 24px;
 }
 
 
